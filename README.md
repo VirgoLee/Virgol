@@ -2,7 +2,7 @@
 
 ![GitHub release](https://img.shields.io/github/release/VirgoLee/Virgol.svg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![License]([https://img.shields.io/badge/License-MIT-blue.svg](https://img.shields.io/github/release/VirgoLee/Virgol.svg))](https://github-readme-stats.vercel.app/api?username=virgolee&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![CI](https://github.com/VirgoLee/Virgol/actions/workflows/ci.yml/badge.svg)](https://github.com/VirgoLee/Virgol/actions)
 
 ## 简介
 
@@ -108,7 +108,7 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 ### 打赏码
 
 ![](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png)
-
+<img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png" alt="描述文字" width="300" height="200">
 ## 致谢
 
 工具开发中参考了很多知名工具，在此一并感谢。
