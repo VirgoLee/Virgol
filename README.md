@@ -2,7 +2,6 @@
 
 ![GitHub release](https://img.shields.io/github/release/VirgoLee/Virgol.svg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![CI](https://github.com/VirgoLee/Virgol/actions/workflows/ci.yml/badge.svg)](https://github.com/VirgoLee/Virgol/actions)
 
 ## 简介
 
@@ -98,17 +97,14 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 - a_leyilea@163.com
 
 ### 个人微信
-
-![](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.png)
+<img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.png" alt="个人微信" width="300">
 
 ### 微信公众号
-
-![](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png)
+<img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png" alt="微信公众号" width="600">
 
 ### 打赏码
+<img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png" alt="打赏吗" width="300">
 
-![](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png)
-<img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png" alt="描述文字" width="300" height="200">
 ## 致谢
 
 工具开发中参考了很多知名工具，在此一并感谢。
