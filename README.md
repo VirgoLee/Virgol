@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/87922d69-4ff8-4bec-bba0-ead7136ebee9)# Virgol - 渗透测试综合工具
+# Virgol - 渗透测试综合工具
 
-[![GitHub release](https://img.shields.io/github/release/VirgoLee/Virgol.svg)](https://github.com/VirgoLee/Virgol/releases)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![GitHub release](https://img.shields.io/github/release/VirgoLee/Virgol.svg)
 
 ## 简介
 
@@ -14,8 +13,8 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 - **子域名收集**：利用公共DNS记录、证书透明度日志和其他在线资源来发现与目标相关的子域名。
 - **指纹识别**：自动检测Web服务器、应用程序和服务的类型及其版本，辅助识别已知漏洞。
 - **端口探测**：执行TCP/UDP端口扫描，确定开放的服务和潜在的可利用点。
-- **敏感信息泄露**：搜索公开可用的数据源，如社交媒体、代码仓库等，查找可能暴露的敏感数据。
-- **目录扫描（Directory Scanning）**：基于字典攻击或智能猜测，检测Web应用中未列出的文件和目录。
+- **敏感信息**：搜索公开可用的数据源，如社交媒体、代码仓库等，查找可能暴露的敏感数据。
+- **目录扫描**：基于字典攻击或智能猜测，检测Web应用中未列出的文件和目录。
 - **Fuzz 测试**：对URL参数、表单输入等进行模糊测试，用于发现注入漏洞或其他输入验证错误。
 - **编码加解密**：支持多种常见的编码和加密算法，方便处理各种格式的数据。
 - **社工字典生成**：根据特定的人物信息或组织结构生成个性化的密码猜测列表。
@@ -30,29 +29,95 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 ### 系统要求
 
 - Windows、MAC、Linux
-- Java 1.8
+- Java 1.8（更高版本也可，但需安装JavaFX，请自写搜索）
 
 ### 使用方式
-￼windows双击 start.bat
-￼mac、linux运行 start.sh
 
+￼windows双击 start.bat
+
+￼mac、linux运行 [start.sh](http://start.sh)
 
 ### 安装步骤
 
 ### 界面
-![image](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2439404/o_250102043940_%E5%AD%90%E5%9F%9F%E5%90%8D%E6%94%B6%E9%9B%86.png)
 
-## 贡献
-我们非常欢迎社区成员参与到Virgol的发展中来！无论是报告bug、提出改进建议还是提交新的特性实现，您的参与都将有助于使这个项目变得更好。请阅读CONTRIBUTING.md了解如何开始贡献。
+#### 基本资产信息
 
-## 提交问题
-如果您发现了任何问题或者有好的想法想要分享，请不要犹豫，立即前往 Issues 页面提交一个新的issue。请尽量提供详尽的信息，包括复现步骤、预期结果和实际结果等，这样可以帮助我们更快地解决问题。
+![](https://i-blog.csdnimg.cn/direct/7f040e757a2b47cba5bf77a4268b3b06.png)
 
-## 拉取请求
-当您准备好为Virgol做出贡献时，可以通过创建一个Pull Request (PR) 来提交代码更改。在提交PR之前，请确保已经阅读并遵循了我们的开发规范。
+#### 资产测绘
 
-## 许可证
-Virgol 依据 MIT License 发布。详情参见LICENSE文件。
+![](https://i-blog.csdnimg.cn/direct/09f0d44d07b94f06bfce90a7323d7fb7.png)
+
+#### 目录扫描
+
+![](https://i-blog.csdnimg.cn/direct/93b7ade9642d4e8f8dc3d404634492ab.png)
+
+#### 子域名收集
+
+![](https://i-blog.csdnimg.cn/direct/7fb4d104df0f4b4eacc47e9316150a24.png)
+
+#### 编码加解密
+
+![](https://i-blog.csdnimg.cn/direct/ce53046148324e24ad89256d202c51e2.png)
+
+#### 端口探测
+
+![](https://i-blog.csdnimg.cn/direct/ad31c32685c24b02897ba1ff7e798b0f.png)
+
+#### 指纹识别
+
+![](https://i-blog.csdnimg.cn/direct/4f4771ae383e408a8e17e4cfc74ad499.png)
+
+#### Toolsets
+
+![](https://i-blog.csdnimg.cn/direct/f83110be0f224f3ba6d35b733b7afeb3.png)
+
+#### 社工字典生成
+
+![](https://i-blog.csdnimg.cn/direct/258dc4e979374ab296e095b3dd5904a4.png)
+
+#### 反弹Shell生成
+
+![](https://i-blog.csdnimg.cn/direct/130df838d8564c3ea379fe003bdb9b97.png)
+
+#### 知识库
+
+![](https://i-blog.csdnimg.cn/direct/648e620f83694c779cbbcac19385e9bd.png)
+
+#### 网站导航
+
+![](https://i-blog.csdnimg.cn/direct/a88fc93b1b6443dbbe6a273295c3b04c.png)
+
+## 联系作者
+
+### 邮箱
+
+- a_leyilea@163.com
+
+### 个人微信
+
+![](https://i-blog.csdnimg.cn/direct/245bc1b4ea24486b8423ac2f29b72087.png)
+
+### 微信公众号
+
+![](https://i-blog.csdnimg.cn/direct/76f639b93d3448fb8192d7174509f841.png)
+
+### 打赏码
+
+![](https://i-blog.csdnimg.cn/direct/72ff91ad694e43ffa0476b1153b29285.png)
+
+## 致谢
+
+工具开发中参考了很多知名工具，在此一并感谢。
+
+- 重剑无锋大佬的无影项目：[https://github.com/TideSec/TscanPlus](https://github.com/TideSec/TscanPlus)
+- kkbo(虎哥)大佬的密探项目：[https://github.com/kkbo8005/mitan](https://github.com/kkbo8005/mitan)
 
 ## 免责声明
-请注意，Virgol 是一款专业的渗透测试工具，其设计初衷是为了帮助专业人士进行合法的安全评估。开发者不对因非法或未经授权使用本软件而导致的任何损害负责。在使用Virgol之前，请确保您拥有目标系统的明确书面授权，并遵守当地法律法规。对于任何违法活动，我们将不承担任何责任。
+
+请注意，Virgol 是一款渗透测试工具，其设计初衷是为了帮助专业人士进行合法的安全评估。开发者不对因非法或未经授权使用本软件而导致的任何损害负责。在使用Virgol之前，请确保您拥有目标系统的明确书面授权，并遵守当地法律法规。对于任何违法活动，我们将不承担任何责任。
+
+## Star History  
+
+![Star History Chart](https://api.star-history.com/svg?repos=VirgoLee/Virgol&type=Date)
