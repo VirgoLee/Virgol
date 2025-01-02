@@ -1,7 +1,8 @@
 # Virgol - 渗透测试综合工具
 
 ![GitHub release](https://img.shields.io/github/release/VirgoLee/Virgol.svg)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/Virgol-1.0.0-green.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/微信公众号-安全处女座-orange.svg)](https://mp.weixin.qq.com/s/Nz32s0LLVLiT64HeNtYi8A)
 
 ## 简介
 
