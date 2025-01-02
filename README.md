@@ -1,6 +1,8 @@
 # Virgol - 渗透测试综合工具
 
 ![GitHub release](https://img.shields.io/github/release/VirgoLee/Virgol.svg)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License]([https://img.shields.io/badge/License-MIT-blue.svg](https://img.shields.io/github/release/VirgoLee/Virgol.svg))](https://github-readme-stats.vercel.app/api?username=virgolee&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 
 ## 简介
 
@@ -97,15 +99,15 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 
 ### 个人微信
 
-![](https://i-blog.csdnimg.cn/direct/245bc1b4ea24486b8423ac2f29b72087.png)
+![](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.png)
 
 ### 微信公众号
 
-![](https://i-blog.csdnimg.cn/direct/76f639b93d3448fb8192d7174509f841.png)
+![](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
 ### 打赏码
 
-![](https://i-blog.csdnimg.cn/direct/72ff91ad694e43ffa0476b1153b29285.png)
+![](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png)
 
 ## 致谢
 
