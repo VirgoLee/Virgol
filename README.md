@@ -39,55 +39,18 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 - windows双击 start.bat
 - mac、linux运行 start.sh
 
-### 界面
+### Virgol界面
+![首页](https://i-blog.csdnimg.cn/direct/7fd90dfca00d47229d12562c370dcbea.png)
+![敏感信息](https://i-blog.csdnimg.cn/direct/7b813a1218914621b716cc31cbd83a2f.png)
+![编码加解密](https://i-blog.csdnimg.cn/direct/9f9b66cb41674255975c6298243be56a.png)
+![反弹Shell生成](https://i-blog.csdnimg.cn/direct/214494ffc9c440f183ad0c54dafb507d.png)
+![社工字典生成](https://i-blog.csdnimg.cn/direct/7a1fa2b74a02498aaec1528082ef2e89.png)
+![命令查询](https://i-blog.csdnimg.cn/direct/26e674683cf942c7888f82136d4d7af1.png)
+![工具箱-JWT](https://i-blog.csdnimg.cn/direct/6c9443c8e53a4ab780f3e61dfc7230c0.png)
+![Markdown编辑器](https://i-blog.csdnimg.cn/direct/d01770d437e84fa8a5c04693a54a3e7c.png)
+![程序启动器](https://i-blog.csdnimg.cn/direct/37b9879a9d774effaabe62a6278b6d3e.png)
+![网址导航](https://i-blog.csdnimg.cn/direct/3a749922dedb41f1b0dec3a65312b64e.png)
 
-#### 基本资产信息
-
-![](https://i-blog.csdnimg.cn/direct/7f040e757a2b47cba5bf77a4268b3b06.png)
-
-#### 资产测绘
-
-![](https://i-blog.csdnimg.cn/direct/09f0d44d07b94f06bfce90a7323d7fb7.png)
-
-#### 目录扫描
-
-![](https://i-blog.csdnimg.cn/direct/93b7ade9642d4e8f8dc3d404634492ab.png)
-
-#### 子域名收集
-
-![](https://i-blog.csdnimg.cn/direct/7fb4d104df0f4b4eacc47e9316150a24.png)
-
-#### 编码加解密
-
-![](https://i-blog.csdnimg.cn/direct/ce53046148324e24ad89256d202c51e2.png)
-
-#### 端口探测
-
-![](https://i-blog.csdnimg.cn/direct/ad31c32685c24b02897ba1ff7e798b0f.png)
-
-#### 指纹识别
-
-![](https://i-blog.csdnimg.cn/direct/4f4771ae383e408a8e17e4cfc74ad499.png)
-
-#### Toolsets
-
-![](https://i-blog.csdnimg.cn/direct/f83110be0f224f3ba6d35b733b7afeb3.png)
-
-#### 社工字典生成
-
-![](https://i-blog.csdnimg.cn/direct/258dc4e979374ab296e095b3dd5904a4.png)
-
-#### 反弹Shell生成
-
-![](https://i-blog.csdnimg.cn/direct/130df838d8564c3ea379fe003bdb9b97.png)
-
-#### 知识库
-
-![](https://i-blog.csdnimg.cn/direct/648e620f83694c779cbbcac19385e9bd.png)
-
-#### 网站导航
-
-![](https://i-blog.csdnimg.cn/direct/a88fc93b1b6443dbbe6a273295c3b04c.png)
 
 ## 联系作者
 
@@ -97,12 +60,13 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 
 ### 个人微信
 <img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.png" alt="个人微信" width="300">
-
+![个人微信](https://i-blog.csdnimg.cn/direct/9f7eded9b6eb4d63a7c90db28dd25a0e.png =200x)
 ### 微信公众号
 <img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png" alt="微信公众号" width="600">
-
+![微信公众号](https://i-blog.csdnimg.cn/direct/aac7c6a8de8547db8809bc1cdc5385bd.png =400x)
 ### 打赏码
 <img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png" alt="打赏吗" width="300">
+![赞赏码](https://i-blog.csdnimg.cn/direct/253f4b54fac241f8978c2ececfd513fd.png =200x)
 
 ## 致谢
 
