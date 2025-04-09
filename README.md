@@ -16,7 +16,7 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 - **端口探测**：执行TCP/UDP端口扫描，确定开放的服务和潜在的可利用点。
 - **敏感信息**：搜索URL页面中的敏感信息，如JSFinder功能。
 - **目录扫描**：基于字典攻击或智能猜测，检测Web应用中未列出的文件和目录。
-- **Fuzz 测试**：对URL参数、表单输入等进行模糊测试，用于发现注入漏洞或其他输入验证错误。
+- **Fuzz测试**：对URL参数、表单输入等进行模糊测试，用于发现注入漏洞或其他输入验证错误。
 - **编码加解密**：支持多种常见的编码和加密算法，方便处理各种格式的数据。
 - **社工字典生成**：根据特定的人物信息或组织结构生成个性化的密码猜测列表。
 - **反弹Shell生成**：创建定制化的shell代码，以便于在授权环境中进行远程命令执行。
@@ -41,15 +41,25 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 - mac、linux运行 start.sh
 
 ### Virgol界面
+#### 首页
 ![首页](https://i-blog.csdnimg.cn/direct/7fd90dfca00d47229d12562c370dcbea.png)
+#### 敏感信息
 ![敏感信息](https://i-blog.csdnimg.cn/direct/7b813a1218914621b716cc31cbd83a2f.png)
+#### 编码加解密
 ![编码加解密](https://i-blog.csdnimg.cn/direct/9f9b66cb41674255975c6298243be56a.png)
+#### 反弹Shell生成
 ![反弹Shell生成](https://i-blog.csdnimg.cn/direct/214494ffc9c440f183ad0c54dafb507d.png)
+#### 社工字典生成
 ![社工字典生成](https://i-blog.csdnimg.cn/direct/7a1fa2b74a02498aaec1528082ef2e89.png)
+#### 命令查询
 ![命令查询](https://i-blog.csdnimg.cn/direct/26e674683cf942c7888f82136d4d7af1.png)
+#### 工具箱-JWT
 ![工具箱-JWT](https://i-blog.csdnimg.cn/direct/6c9443c8e53a4ab780f3e61dfc7230c0.png)
+#### Markdown编辑器
 ![Markdown编辑器](https://i-blog.csdnimg.cn/direct/d01770d437e84fa8a5c04693a54a3e7c.png)
+#### 程序启动器
 ![程序启动器](https://i-blog.csdnimg.cn/direct/37b9879a9d774effaabe62a6278b6d3e.png)
+#### 网址导航
 ![网址导航](https://i-blog.csdnimg.cn/direct/3a749922dedb41f1b0dec3a65312b64e.png)
 
 
@@ -61,17 +71,7 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 
 | 个人微信 | 微信公众号 | 打赏码 |
 |--|--|--|
-| ![个人微信](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.png) | ![微信公众号](https://i-blog.csdnimg.cn/direct/aac7c6a8de8547db8809bc1cdc5385bd.png) |![赞赏码](https://i-blog.csdnimg.cn/direct/253f4b54fac241f8978c2ececfd513fd.png)|
-
-### 个人微信
-<img src="https://i-blog.csdnimg.cn/direct/9f7eded9b6eb4d63a7c90db28dd25a0e.png" alt="个人微信" width="300">
-![个人微信](https://i-blog.csdnimg.cn/direct/9f7eded9b6eb4d63a7c90db28dd25a0e.png)
-### 微信公众号
-
-![微信公众号](https://i-blog.csdnimg.cn/direct/aac7c6a8de8547db8809bc1cdc5385bd.png)
-### 打赏码
-<img src="https://i-blog.csdnimg.cn/direct/253f4b54fac241f8978c2ececfd513fd.png" alt="打赏吗" width="300">
-![赞赏码](https://i-blog.csdnimg.cn/direct/253f4b54fac241f8978c2ececfd513fd.png)
+| ![个人微信](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.png) | ![微信公众号](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png) |![赞赏码](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png)|
 
 ## 致谢
 
