@@ -7,7 +7,7 @@
 
 Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗透测试工具集。它整合了多种功能模块。Virgol 的目标是为用户提供一个一站式解决方案，以满足在不同场景下的安全测试需求。
 
-## 特性
+## 功能
 
 - **基本资产信息**：获取目标的基本网络信息，包括IP地址、域名注册详情等。
 - **资产测绘**：通过网络空间测绘引擎搜索，支持FOFA、Quake、Hunter、ZoomEye、00信安。
@@ -22,6 +22,7 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 - **反弹Shell生成**：创建定制化的shell代码，以便于在授权环境中进行远程命令执行。
 - **程序启动器**：内置系统常用软件启动方式，亦可自行配置其他软件，形成自己的工具箱。
 - **网站导航**：集合了多个网络安全领域的权威资源链接，便于快速查阅。
+- ...
 
 ## 安装与使用
 
@@ -59,14 +60,14 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 - a_leyilea@163.com
 
 ### 个人微信
-<img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.png" alt="个人微信" width="300">
-![个人微信](https://i-blog.csdnimg.cn/direct/9f7eded9b6eb4d63a7c90db28dd25a0e.png =200x)
+<img src="https://i-blog.csdnimg.cn/direct/9f7eded9b6eb4d63a7c90db28dd25a0e.png" alt="个人微信" width="300">
+![个人微信](https://i-blog.csdnimg.cn/direct/9f7eded9b6eb4d63a7c90db28dd25a0e.png)
 ### 微信公众号
-<img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png" alt="微信公众号" width="600">
-![微信公众号](https://i-blog.csdnimg.cn/direct/aac7c6a8de8547db8809bc1cdc5385bd.png =400x)
+<img src="https://i-blog.csdnimg.cn/direct/aac7c6a8de8547db8809bc1cdc5385bd.png" alt="微信公众号" width="600">
+![微信公众号](https://i-blog.csdnimg.cn/direct/aac7c6a8de8547db8809bc1cdc5385bd.png)
 ### 打赏码
-<img src="https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png" alt="打赏吗" width="300">
-![赞赏码](https://i-blog.csdnimg.cn/direct/253f4b54fac241f8978c2ececfd513fd.png =200x)
+<img src="https://i-blog.csdnimg.cn/direct/253f4b54fac241f8978c2ececfd513fd.png" alt="打赏吗" width="300">
+![赞赏码](https://i-blog.csdnimg.cn/direct/253f4b54fac241f8978c2ececfd513fd.png)
 
 ## 致谢
 
