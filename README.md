@@ -61,7 +61,7 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 
 | 个人微信 | 微信公众号 | 打赏码 |
 |--|--|--|
-| ![个人微信](https://i-blog.csdnimg.cn/direct/9f7eded9b6eb4d63a7c90db28dd25a0e.png) | ![微信公众号](https://i-blog.csdnimg.cn/direct/aac7c6a8de8547db8809bc1cdc5385bd.png) |![赞赏码](https://i-blog.csdnimg.cn/direct/253f4b54fac241f8978c2ececfd513fd.png)|
+| ![个人微信](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.png) | ![微信公众号](https://i-blog.csdnimg.cn/direct/aac7c6a8de8547db8809bc1cdc5385bd.png) |![赞赏码](https://i-blog.csdnimg.cn/direct/253f4b54fac241f8978c2ececfd513fd.png)|
 
 ### 个人微信
 <img src="https://i-blog.csdnimg.cn/direct/9f7eded9b6eb4d63a7c90db28dd25a0e.png" alt="个人微信" width="300">
