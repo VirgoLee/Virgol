@@ -18,6 +18,8 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 - **端口探测**：执行TCP/UDP端口扫描，确定开放的服务和潜在的可利用点。
 - **敏感信息**：搜索URL页面中的敏感信息，如JSFinder功能。
 - **目录扫描**：基于字典攻击或智能猜测，检测Web应用中未列出的文件和目录。
+- **代理功能**：代理探测流量至其他工具，进行联动。
+- **漏洞扫描**：基于POC进行漏洞扫描，包含POC自定义、POC导入、POC管理等功能。
 - **Fuzz测试**：对URL参数、表单输入等进行模糊测试，用于发现注入漏洞或其他输入验证错误。
 - **编码加解密**：支持多种常见的编码和加密算法，方便处理各种格式的数据。
 - **社工字典生成**：根据特定的人物信息或组织结构生成个性化的密码猜测列表。
@@ -37,6 +39,7 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 ### 使用方式
 #### v2.x.x及以上版本
 - 双击即可使用
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/3133c75181934b929e4e27a7b437a3b8.png)
 #### v1.x.x版本
 ![](https://i-blog.csdnimg.cn/direct/8257f9dc9f084846a72084e1ef27ee69.png)
 - windows双击 start.bat
@@ -45,6 +48,12 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 ### Virgol界面
 #### 首页
 ![首页](https://i-blog.csdnimg.cn/direct/7fd90dfca00d47229d12562c370dcbea.png)
+#### 漏洞扫描
+![漏扫扫描](https://i-blog.csdnimg.cn/img_convert/5181d111bd71e46e1629cf2d2dc64243.png)
+#### POC管理
+![POC管理](https://i-blog.csdnimg.cn/img_convert/c3741fe2c5a66b03178cfb60d60e0b5f.png)
+#### 自定义POC功能
+![自定义POC功能](https://i-blog.csdnimg.cn/img_convert/f055b1ab03bec95bf7338e7483b6e0eb.png)
 #### 敏感信息
 ![敏感信息](https://i-blog.csdnimg.cn/direct/7b813a1218914621b716cc31cbd83a2f.png)
 #### 编码加解密
@@ -75,12 +84,6 @@ Virgol 是一个面向安全研究人员和渗透测试员设计的综合型渗�
 |--|--|--|
 | ![个人微信](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.png) | ![微信公众号](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png) |![赞赏码](https://images.cnblogs.com/cnblogs_com/blogs/769113/galleries/2422690/o_250102060507_%E6%89%93%E8%B5%8F%E7%A0%81.png)|
 
-## 致谢
-
-工具开发中参考了很多知名工具，在此一并感谢。
-
-- 重剑无锋大佬的无影项目：[https://github.com/TideSec/TscanPlus](https://github.com/TideSec/TscanPlus)
-- kkbo(虎哥)大佬的密探项目：[https://github.com/kkbo8005/mitan](https://github.com/kkbo8005/mitan)
 
 ## 免责声明
 
